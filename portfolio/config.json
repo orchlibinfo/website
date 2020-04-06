@@ -7,9 +7,9 @@
   "navigation": [
     {
       "text": "Join!",
-      "link": "oli.mobilize.io",
+      "link": "https://oli.mobilize.io",
       "position": "",
-      "external": false
+      "external": true
     }
   ]
 }
